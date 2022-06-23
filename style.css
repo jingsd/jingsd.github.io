@@ -7,8 +7,12 @@ body {
 }
 
 p {
-  margin: 24px 0;
-  line-height: 2;
+    margin: 24px 0;
+    line-height: 2;
+    text-align: left;
+    font-style: normal;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bold;
 }
 
 .wrapper {
